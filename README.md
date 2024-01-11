@@ -17,6 +17,7 @@ ___
 ## ✔ To Do List
 - 정보처리기사
 - OPIC
+___
 
 ## 📧 Email
-- p1ayer.one.potter@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:p1ayer.one.potter@gmail.com)
