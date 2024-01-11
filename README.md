@@ -2,18 +2,21 @@
 임가현
 ___
 
-## Education 
+## 📚 Education 
 >__Majored in__ Physical Education
 >>__Minored in__ Computer Software Engineering
 
 > __SSAFY__ (Samsung Software Academy for Youth, 2024.01 - )
 ___
 
-## Interested in
+## 🌟 Interested in
 - Digital Helath Care
 ___
 
 
-## Goals
+## ✔ To Do List
 - 정보처리기사
-- SSAFY 수료
+- OPIC
+
+## 📧 Email
+- p1ayer.one.potter@gmail.com
