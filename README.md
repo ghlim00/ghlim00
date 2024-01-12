@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=(๑•̌.•̑๑)ˀ̣ˀ̣)و✧&20render&fontsize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=(๑•̌.•̑๑)ˀ̣ˀ̣و✧&20render&fontsize=30)
 
 # Gahyun LIM
 임가현
